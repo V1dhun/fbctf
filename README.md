@@ -3,6 +3,7 @@
 ## What is FBCTF?
 
 The Facebook CTF is a platform to host Jeopardy and “King of the Hill” style Capture the Flag competitions.
+mainly consist of binary exploitation and buffer overflow attacks
 
 <div align="center"><img src="screencapture.gif" /></div>
 
